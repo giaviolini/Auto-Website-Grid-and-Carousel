@@ -13,6 +13,6 @@ I learned that you can select the entire web page in CSS by using the ```*``` se
 I also learned adding the respective ```top; 0``` or ```bottom; 0``` are is the best way to make the header and footer stay at their respective locations.
 
 ### Image Carousel
-I also wanted to use an Image Carousel. It was very complicated and frustrating to create one myself, so I modeled mine off of a code pen. I simplified the code a bit by finding some code that I didn't necessarily need, and it also was very confusing to me. [Link to Code Pen her]()
+I also wanted to use an Image Carousel. It was very complicated and frustrating to create one myself, so I modeled mine off of a code pen. I simplified the code a bit by finding some code that I didn't necessarily need, and it also was a little confusing to me. [Link to Code Pen here](https://codepen.io/keefyboooo/pen/waJYMm)
 
 [Vist Site Here](https://giaviolini.github.io/Grid-Display/)
